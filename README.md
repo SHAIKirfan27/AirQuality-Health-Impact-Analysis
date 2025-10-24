@@ -14,4 +14,4 @@ Python, Pandas, Seaborn, XGBoost, SHAP, Plotly, Google Colab
 - Visualization and feature importance explanation
 
 ## Author
-Your Name – [SHAIK IRFAN](www.linkedin.com/in/shaikirfan27)
+Name – [SHAIK IRFAN](www.linkedin.com/in/shaikirfan27)
